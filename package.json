@@ -1,0 +1,23 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "ProyectoNodeJS-Blog_Viajes",
+  "main": "webapp.js",
+  "scripts": {
+    "dev": "nodemon webapp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RRZA",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "express-flash": "0.0.2",
+    "express-session": "^1.17.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^4.7.0",
+    "nodemon": "^1.19.4"
+  }
+}

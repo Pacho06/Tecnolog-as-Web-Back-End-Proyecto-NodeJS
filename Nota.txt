@@ -1,0 +1,9 @@
+
+TECNOLOGIAS WEB BACK END - PROYECTO NODE JS
+
+1.- Instalar los modulos node con NPM Install 
+2.- Actualizar las despendencia en caso de ser necesario
+3.- Importar la DB Sql (Blog_Viajes)
+4.- Iniciar xampp y los servicios de Apache y MySQL
+5.- Iniciar el server desde node con nodemon webapp.js
+6.- Ingresar a localhost:8080 para ver la pagina Blog_viajes
